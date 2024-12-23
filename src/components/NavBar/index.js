@@ -24,6 +24,9 @@ function Navbar() {
           <Link to="/about" style={{ color: "#e15c00", textDecoration: "solid" }}>About</Link>
         </li>
         <li style={{ marginRight: "20px" }}>
+          <Link to="/gallery" style={{ color: "#e15c00", textDecoration: "solid" }}>Gallery</Link>
+        </li>        
+        <li style={{ marginRight: "20px" }}>
           <Link to="/tool" style={{ color: "#e15c00", textDecoration: "solid" }}>Tools</Link>
         </li>
         <li>
